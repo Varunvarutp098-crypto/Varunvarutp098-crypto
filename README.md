@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a 1st year BCA student
+I am a 1st year BCA student : NIMCET 2028 Aspirant 
 
 
 ## 🌐 Socials:
