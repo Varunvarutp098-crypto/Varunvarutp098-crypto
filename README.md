@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a 1st year BCA student : CUET PG MCA 2028 Aspirant 
+I am a 1st year BCA student AMD ALSO A NIMCET 2028 Aspirant 
 
 
 ## 🌐 Socials:
