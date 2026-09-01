@@ -27,7 +27,3 @@ I am a 1st year BCA student AND ALSO A NIMCET 2028 Aspirant
 [![](https://visitcount.itsvg.in/api?id=Varunvarutp098-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## GitHub Streak
-[![GitHub
-Streak](https://Streak-stats.demolab.com
-?user=Varunvarutp098-crypto)](https://git.io/Streak-stats)
